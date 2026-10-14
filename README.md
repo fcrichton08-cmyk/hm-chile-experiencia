@@ -36,10 +36,18 @@
 
 ---
 
-## 🚀 Despliegue en GitHub Pages
+## 🚀 Despliegue en Vivo
 
-Para ver la plataforma en vivo directamente desde el navegador, activa GitHub Pages en:
-`Settings > Pages > Branch: main > Save`
+- **Sitio Web en Producción (GitHub Pages):** [https://fcrichton08-cmyk.github.io/hm-chile-experiencia/](https://fcrichton08-cmyk.github.io/hm-chile-experiencia/)
+- **Repositorio Público en GitHub:** [https://github.com/fcrichton08-cmyk/hm-chile-experiencia](https://github.com/fcrichton08-cmyk/hm-chile-experiencia)
+
+---
+
+## 📊 Medición & Google Analytics 4
+
+La plataforma cuenta con integración oficial de **Google Analytics 4 (GA4)** mediante `gtag.js`:
+- **ID de Medición activo:** `G-7NZMN8FQ7Z`
+- **Métricas registradas:** Visitas a la página, filtrado por tallas inclusivas (`filter_size`), generación de código QR para devolución express (`generate_qr_code`), apertura de guía de medidas (`view_modal`) y envío de calificaciones de satisfacción CSAT/NPS (`submit_csat_review`).
 
 ---
 
